@@ -42,5 +42,7 @@ https://chxc.cc<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EnderCHX&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://api.blog.hrbeu.top/visitor_count_github)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
