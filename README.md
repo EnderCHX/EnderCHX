@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 -->
 
-# 💫 About Me:
-https://chxc.cc<br>
-
 ![](https://api.blog.hrbeu.top/visitor_count_github)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.blog.hrbeu.top%2Fvisit%3Foption%3Dpath%26param%3D%2Fvisitor_count_github&query=%24.data.count&style=flat-square&label=%E7%82%B9%E5%87%BB%E9%87%8F&color=red)
+
+# 💫 About Me:
+https://chxc.cc<br>
 
 
 # 💻 Tech Stack:
